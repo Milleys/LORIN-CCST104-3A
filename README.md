@@ -3,7 +3,7 @@ Repository compilation for the subject
 
 
 # Activities
-1. <a heref = "/Collab Notebooks/3A-LORIN-EXER5.ipynb">Exer 5</a>
+1. <a href = "/Collab Notebooks/3A-LORIN-EXER5.ipynb">Exer 5</a>
 
 
 
