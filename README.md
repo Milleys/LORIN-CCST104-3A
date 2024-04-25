@@ -1,6 +1,8 @@
-# LORIN-CCST104-3A
+# Collab Repository Compilation
 Repository compilation for the subject
 
+John Wilson Lorin
+BSCS-3A
 
 # ACTIVITIES
 1. <a href = "/Collab Notebooks/Lorin_Collab_Activity1_3A.ipynb">Activity 1</a>
