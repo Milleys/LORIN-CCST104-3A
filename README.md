@@ -15,4 +15,5 @@ Repository compilation for the subject
 6. <a href = "/Collab Notebooks/3A-LORIN-EXER6.ipynb">Exercise 6</a>
 7. <a href = "/Collab Notebooks/3A-LORIN-EXER7.ipynb">Exercise 7</a>
 8. <a href = "/Collab Notebooks/3A-LORIN-EXER8.ipynb">Exercise 8</a>
+
 # Midterm
